@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bahaar2_website/static/css/main.988d2b61.chunk.css",
+    "main.js": "/bahaar2_website/static/js/main.1dfb2838.chunk.js",
+    "main.js.map": "/bahaar2_website/static/js/main.1dfb2838.chunk.js.map",
+    "runtime-main.js": "/bahaar2_website/static/js/runtime-main.a2f40c19.js",
+    "runtime-main.js.map": "/bahaar2_website/static/js/runtime-main.a2f40c19.js.map",
+    "static/js/2.98509930.chunk.js": "/bahaar2_website/static/js/2.98509930.chunk.js",
+    "static/js/2.98509930.chunk.js.map": "/bahaar2_website/static/js/2.98509930.chunk.js.map",
+    "index.html": "/bahaar2_website/index.html",
+    "precache-manifest.24554ea0737ac0c4f0b6695cc8440578.js": "/bahaar2_website/precache-manifest.24554ea0737ac0c4f0b6695cc8440578.js",
+    "service-worker.js": "/bahaar2_website/service-worker.js",
+    "static/css/main.988d2b61.chunk.css.map": "/bahaar2_website/static/css/main.988d2b61.chunk.css.map",
+    "static/js/2.98509930.chunk.js.LICENSE.txt": "/bahaar2_website/static/js/2.98509930.chunk.js.LICENSE.txt",
+    "static/media/ad.mp4": "/bahaar2_website/static/media/ad.4e38a4fe.mp4",
+    "static/media/banner.jpg": "/bahaar2_website/static/media/banner.fb08e3fb.jpg",
+    "static/media/banner2.jpg": "/bahaar2_website/static/media/banner2.940669b5.jpg",
+    "static/media/banner3.jpg": "/bahaar2_website/static/media/banner3.88bdb8ce.jpg",
+    "static/media/icon3.jpg": "/bahaar2_website/static/media/icon3.83f94f41.jpg",
+    "static/media/iframe2.mp4": "/bahaar2_website/static/media/iframe2.fc74124c.mp4",
+    "static/media/logo.png": "/bahaar2_website/static/media/logo.c1d84d27.png",
+    "static/media/mam.jfif": "/bahaar2_website/static/media/mam.c62f1791.jfif",
+    "static/media/ss1.png": "/bahaar2_website/static/media/ss1.afb52f2d.png",
+    "static/media/ss2.png": "/bahaar2_website/static/media/ss2.75ca2fa7.png",
+    "static/media/ss3_replace.png": "/bahaar2_website/static/media/ss3_replace.6ec05e89.png",
+    "static/media/taha.jfif": "/bahaar2_website/static/media/taha.94fb9c02.jfif",
+    "static/media/tanvee.jpg": "/bahaar2_website/static/media/tanvee.be6b33e4.jpg",
+    "static/media/vinod.jpg": "/bahaar2_website/static/media/vinod.e1e0ee9f.jpg",
+    "static/media/yashSir.jpg": "/bahaar2_website/static/media/yashSir.28cedaf6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2f40c19.js",
+    "static/js/2.98509930.chunk.js",
+    "static/css/main.988d2b61.chunk.css",
+    "static/js/main.1dfb2838.chunk.js"
+  ]
+}
